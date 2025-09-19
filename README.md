@@ -232,4 +232,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with Go 1.21 | Containerized with Docker | Production Ready**
+**Built with Go 1.21 | Containerized with Docker**
